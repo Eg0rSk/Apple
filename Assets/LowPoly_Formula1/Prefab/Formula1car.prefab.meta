@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3d391155c0f825d4a979a413e7c72107
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 383212
+  packageName: Low-Poly-Formula1
+  packageVersion: 1.0
+  assetPath: Assets/LowPoly_Formula1/Prefab/Formula1car.prefab
+  uploadId: 943582

@@ -156,4 +156,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AppleCollect
   collectSound: {fileID: 8300000, guid: 952a73abe0653244d8afb10e323d419f, type: 3}
-  collectEffect: {fileID: 2299090823688341770, guid: 14414bf7d4bb408488cc7c2af9a72929, type: 3}
+  collectEffect: {fileID: 5880797563127281583, guid: 265d3a5ba69981a4698ceabcedf368b0, type: 3}
+  points: 1
